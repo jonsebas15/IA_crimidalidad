@@ -15,7 +15,6 @@
 ## 📊 Resultados Esperados
 
 - Descubrir si existen condiciones climáticas que se asocian más frecuentemente con eventos violentos.
-- 
 ## 📁 Dataset
 https://www.kaggle.com/datasets/saurabhshahane/dataset-for-weather-and-crime-in-barranquilla
 
