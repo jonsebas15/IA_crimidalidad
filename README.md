@@ -5,7 +5,7 @@
 ## 🎯 Objetivos del Proyecto
 
 1. **Predecir la violencia interpersonal a partir de variables climáticas**  
-   Entrenar modelos de redes neuronales capaces de clasificar si un día presentará o no un evento de violencia interpersonal (como homicidio, riña, etc.) usando características climáticas como temperatura, humedad, fases de la luna, entre otros.
+   Entrenar modelos de redes neuronales capaces de clasificar si un día presentará o no un evento de violencia interpersonal usando características climáticas como temperatura, humedad, fases de la luna, entre otros.
 
 2. **Descubrir patrones ocultos en los datos mediante clustering no supervisado**  
    Aplicar técnicas de reducción de dimensionalidad y agrupamiento (K-Means y DBSCAN) para identificar grupos de días con condiciones similares y posibles correlaciones con la criminalidad.
