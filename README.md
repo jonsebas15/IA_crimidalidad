@@ -18,9 +18,9 @@
 https://www.kaggle.com/datasets/saurabhshahane/dataset-for-weather-and-crime-in-barranquilla
 
 ## 👥 Autores
-1. **Johan Sebastian Villamizar ortega**
-2. **Luis Santiago Tarazona Jimenez**
-3. **Juan sebastian Landinez Arenales**
+1. **Johan Sebastian Villamizar ortega - 2162643**
+2. **Luis Santiago Tarazona Jimenez - 2201988**
+3. **Juan sebastian Landinez Arenales - 2211898**
 
 ## 📹 Video Explicativo
 youtube
