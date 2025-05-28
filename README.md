@@ -1,4 +1,6 @@
 # IA_crimidalidad
+![climinalidad_barranquilla](https://github.com/user-attachments/assets/8d5d44e5-d22b-4e4c-a194-967c3dd120fe)
+
 
 
 ## 🎯 Objetivos del Proyecto
