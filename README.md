@@ -17,18 +17,27 @@
 ## 📁 Dataset
 https://www.kaggle.com/datasets/saurabhshahane/dataset-for-weather-and-crime-in-barranquilla
 
-## 👥 Autores
-1. **Johan Sebastian Villamizar ortega - 2162643**
-2. **Luis Santiago Tarazona Jimenez - 2201988**
-3. **Juan sebastian Landinez Arenales - 2211898**
 
 ## 📹 Video Explicativo
-[Proyecto Final Inteligencia Artificial I]https://www.youtube.com/watch?v=_xE_UBZaKNM&ab_channel=JuanSebastianLandinezArenales
+https://www.youtube.com/watch?v=_xE_UBZaKNM&ab_channel=JuanSebastianLandinezArenales
 
 ## ✍️ Diapositivas
 https://github.com/jonsebas15/IA_crimidalidad/blob/main/Criminalidad_clima.pdf
 
 ## 📓 Notebook
    https://colab.research.google.com/drive/1mCb_BgPjNRzVhVyl9H8lDgeJbMscurie#scrollTo=XzMgdffcxFuD
+
+## 🧠 Modelos Utilizados
+- **Árbol de Decisión (DecisionTreeRegressor)**
+- **Bosque Aleatorio (RandomForestRegressor)**
+- **Máquinas de Vectores de Soporte (SVR)**
+- **PCA (Análisis de Componentes Principales)**
+- **K-Means**
+- **DBSCAN**
+
+## 👥 Autores
+1. **Johan Sebastian Villamizar ortega - 2162643**
+2. **Luis Santiago Tarazona Jimenez - 2201988**
+3. **Juan sebastian Landinez Arenales - 2211898**
 
 
