@@ -1,6 +1,5 @@
 # IA_crimidalidad
-![climinalidad_barranquilla](https://github.com/user-attachments/assets/8d5d44e5-d22b-4e4c-a194-967c3dd120fe)
-
+![crimidalidad1](https://github.com/user-attachments/assets/4d1fc3c2-ea17-452b-acd4-8fcabdbf302b)
 
 
 ## 🎯 Objetivos del Proyecto
@@ -19,10 +18,16 @@
 https://www.kaggle.com/datasets/saurabhshahane/dataset-for-weather-and-crime-in-barranquilla
 
 ## 👥 Autores
-Johan Sebastian Villamizar ortega
+1. **Johan Sebastian Villamizar ortega**
+2. **Luis Santiago Jimenez**
+3. **Sebastian**
 
 ## 📹 Video Explicativo
 youtube
 
+## ✍️ Diapositivas
+
 ## 📓 Notebook
-   📘 https://colab.research.google.com/drive/1mCb_BgPjNRzVhVyl9H8lDgeJbMscurie#scrollTo=XzMgdffcxFuD
+   https://colab.research.google.com/drive/1mCb_BgPjNRzVhVyl9H8lDgeJbMscurie#scrollTo=XzMgdffcxFuD
+
+
