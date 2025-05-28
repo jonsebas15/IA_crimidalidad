@@ -26,7 +26,7 @@ https://www.kaggle.com/datasets/saurabhshahane/dataset-for-weather-and-crime-in-
 youtube
 
 ## ✍️ Diapositivas
-[criminalidad_clima.pdf](https://github.com/user-attachments/files/20493602/criminalidad_clima.pdf)
+https://github.com/jonsebas15/IA_crimidalidad/blob/main/Criminalidad_clima.pdf
 
 ## 📓 Notebook
    https://colab.research.google.com/drive/1mCb_BgPjNRzVhVyl9H8lDgeJbMscurie#scrollTo=XzMgdffcxFuD
