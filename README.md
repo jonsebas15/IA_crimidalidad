@@ -18,3 +18,12 @@
 - 
 ## 📁 Dataset
 https://www.kaggle.com/datasets/saurabhshahane/dataset-for-weather-and-crime-in-barranquilla
+
+## 👥 Autores
+Johan Sebastian Villamizar ortega
+
+## 📹 Video Explicativo
+youtube
+
+## 📓 Notebook
+   📘 https://colab.research.google.com/drive/1mCb_BgPjNRzVhVyl9H8lDgeJbMscurie#scrollTo=XzMgdffcxFuD
