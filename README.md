@@ -23,7 +23,7 @@ https://www.kaggle.com/datasets/saurabhshahane/dataset-for-weather-and-crime-in-
 3. **Juan sebastian Landinez Arenales - 2211898**
 
 ## 📹 Video Explicativo
-youtube
+[Proyecto Final Inteligencia Artificial I]https://www.youtube.com/watch?v=_xE_UBZaKNM&ab_channel=JuanSebastianLandinezArenales
 
 ## ✍️ Diapositivas
 https://github.com/jonsebas15/IA_crimidalidad/blob/main/Criminalidad_clima.pdf
