@@ -20,7 +20,7 @@ https://www.kaggle.com/datasets/saurabhshahane/dataset-for-weather-and-crime-in-
 ## 👥 Autores
 1. **Johan Sebastian Villamizar ortega**
 2. **Luis Santiago Tarazona Jimenez**
-3. **Juan sebastian landinez Arenales**
+3. **Juan sebastian Landinez Arenales**
 
 ## 📹 Video Explicativo
 youtube
