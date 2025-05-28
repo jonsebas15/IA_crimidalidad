@@ -1,4 +1,4 @@
-# IA_clima_crimidalidad
+# IA_clima_criminalidad
 ![crimidalidad1](https://github.com/user-attachments/assets/4d1fc3c2-ea17-452b-acd4-8fcabdbf302b)
 
 
